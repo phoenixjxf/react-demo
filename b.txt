@@ -1,0 +1,11 @@
+初学git
+
+git clone的时候是你的当前路径
+比如你加了一个文件a.txt
+git add a.txt
+git commit 
+git push
+
+$ git config --global user.email "372824415@qq.com"
+$  git config --global user.name "phoenixjxf"
+$ git commit -m "test"
