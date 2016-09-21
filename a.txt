@@ -1,0 +1,7 @@
+初学git
+
+git clone的时候是你的当前路径
+比如你加了一个文件a.txt
+git add a.txt
+git commit 
+git push
